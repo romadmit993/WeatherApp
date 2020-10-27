@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="input_city">Введите город</string>
+    <string name="sendWeather">Узнать погоду</string>
+    <string name="current_location">Местоположение:</string>
+    <string name="about_city">Подробнее о городе</string>
+    <string name="horoskope">Гороскоп на сегодня</string>
+</resources>
